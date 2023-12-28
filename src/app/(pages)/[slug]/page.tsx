@@ -20,7 +20,7 @@ import { Gutter } from '../../_components/Gutter'
 // If you are not using Payload Cloud then this line can be removed, see `../../../README.md#cache`
 export const dynamic = 'force-dynamic'
 
-import classes from './index.module.scss'
+import classes from './index.module.scss';
 import Categories from '../../_components/Categories'
 import Promotion from '../../_components/Promotion'
 
